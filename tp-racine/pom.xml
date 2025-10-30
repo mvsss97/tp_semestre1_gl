@@ -11,5 +11,6 @@
     <module>lanceur</module>
     <module>personnel-entities</module>
     <module>personnel-manager</module>
+    <module>ui-swing</module>
   </modules>
 </project>
